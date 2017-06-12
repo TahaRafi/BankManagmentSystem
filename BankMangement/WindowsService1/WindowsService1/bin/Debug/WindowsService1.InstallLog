@@ -1,0 +1,26 @@
+﻿Installing assembly 'E:\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = E:\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service ZLog...
+Service ZLog has been successfully installed.
+Creating EventLog source ZLog in log Application...
+Committing assembly 'E:\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = E:\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing assembly 'E:\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = E:\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service ZLog...
+Creating EventLog source ZLog in log Application...
+Rolling back assembly 'E:\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = E:\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Restoring event log to previous state for source ZLog.

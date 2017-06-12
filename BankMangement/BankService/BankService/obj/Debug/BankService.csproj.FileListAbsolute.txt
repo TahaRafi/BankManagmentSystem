@@ -1,0 +1,8 @@
+c:\users\taha\documents\visual studio 2015\Projects\BankService\BankService\bin\Debug\BankService.exe.config
+c:\users\taha\documents\visual studio 2015\Projects\BankService\BankService\bin\Debug\BankService.exe
+c:\users\taha\documents\visual studio 2015\Projects\BankService\BankService\bin\Debug\BankService.pdb
+c:\users\taha\documents\visual studio 2015\Projects\BankService\BankService\obj\Debug\BankService.csprojResolveAssemblyReference.cache
+c:\users\taha\documents\visual studio 2015\Projects\BankService\BankService\obj\Debug\BankService.ProjectInstaller.resources
+c:\users\taha\documents\visual studio 2015\Projects\BankService\BankService\obj\Debug\BankService.csproj.GenerateResource.Cache
+c:\users\taha\documents\visual studio 2015\Projects\BankService\BankService\obj\Debug\BankService.exe
+c:\users\taha\documents\visual studio 2015\Projects\BankService\BankService\obj\Debug\BankService.pdb
